@@ -1,0 +1,9 @@
+use selenium
+select all
+paste into notepad
+split by "save"
+
+scroll
+
+select all / paste into .txt / split by "save"
+remove duplicates
